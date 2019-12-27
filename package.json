@@ -1,0 +1,32 @@
+{
+  "name": "ipfs-lowdb-adapter",
+  "version": "0.0.1",
+  "description": "lowdb adapter for IPFS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josselinchevalay/ipfs-lowdb-adapter.git"
+  },
+  "keywords": [
+    "ipfs",
+    "lowdb",
+    "adapter"
+  ],
+  "author": "josselinchevalay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josselinchevalay/ipfs-lowdb-adapter/issues"
+  },
+  "homepage": "https://github.com/josselinchevalay/ipfs-lowdb-adapter#readme",
+  "dependencies": {
+    "lowdb": "^1.0.0"
+  },
+  "devDependencies": {
+    "hat": "0.0.3",
+    "ipfs": "^0.40.0",
+    "jest": "^24.9.0"
+  }
+}
