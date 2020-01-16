@@ -38,7 +38,7 @@ class IPFSAdapter extends Base {
       )
       this.ipfs
         .add(dataSerialized)
-        .then((results) => {resolve(results[0].hash); this.lastHash = results[0].hash})
+        .then((results) => { resolve(results[0].hash); this.lastHash = results[0].hash })
     })
   }
 
