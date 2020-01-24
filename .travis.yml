@@ -48,5 +48,12 @@ jobs:
       script:
         - npx aegir test -t electron-renderer --bail
 
+matrix:
+  fast_finish: true
+  allow_failures:
+    - os: linux
+    - stage: chrome
+    - stage : firefox
+
 notifications:
   email: false
