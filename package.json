@@ -1,6 +1,6 @@
 {
   "name": "ipfs-lowdb-adapter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "lowdb adapter for IPFS",
   "main": "index.js",
   "scripts": {
