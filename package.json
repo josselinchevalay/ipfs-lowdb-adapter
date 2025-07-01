@@ -31,7 +31,7 @@
     "lowdb": "^1.0.0"
   },
   "devDependencies": {
-    "aegir": "^20.5.1",
+    "aegir": "^47.0.19",
     "async": "^3.1.0",
     "hat": "0.0.3",
     "interface-ipfs-core": "^0.127.0",
