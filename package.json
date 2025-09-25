@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/josselinchevalay/ipfs-lowdb-adapter#readme",
   "dependencies": {
-    "ipfs": "^0.40.0",
+    "ipfs": "^0.66.1",
     "lowdb": "^1.0.0"
   },
   "devDependencies": {
